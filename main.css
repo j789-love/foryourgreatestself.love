@@ -1,10 +1,13 @@
 body {
   font-family: "Montserrat", sans-serif;
-  padding: 1rem;
 }
 
 h1, h2 {
   color: rgb(0, 255, 255);
+}
+
+section {
+  padding: 1rem;
 }
 
 #footer {
