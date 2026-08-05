@@ -7,13 +7,13 @@ h1, h2 {
 }
 
 section {
-  padding: 1rem;
+  padding: 1rem 0.5rem;
 }
 
 #footer {
   background-color: rgb(0, 255, 255);
 }
 
-#footer h1, h2, h3 {
+#footer h1, h2, h3, h4{
   color: rgb(255, 255, 255);
 }
